@@ -8,4 +8,4 @@ def oxford_comma(array)
 end
 
 
-puts oxford_comma(["Peter", "Jackson", "Kimmie", "Steven"])
+puts oxford_comma(["Peter"])
