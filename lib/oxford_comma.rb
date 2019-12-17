@@ -7,5 +7,3 @@ else
 end
 
 end
-
-print oxford_comma([1])
