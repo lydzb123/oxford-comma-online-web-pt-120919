@@ -6,6 +6,3 @@ def oxford_comma(array)
     return array.join(" and ")
   end
 end
-
-
-puts oxford_comma(["Peter"])
