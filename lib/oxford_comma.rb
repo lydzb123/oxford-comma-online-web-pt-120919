@@ -1,7 +1,6 @@
 def oxford_comma(array)
 if array.count > 2
-  array.pop.to_s(",and ")
-
+  array.pop
 else
   return array.join(" and ")
 end
