@@ -1,6 +1,6 @@
 def oxford_comma(array)
 if array.count > 2
-  array[-2] << "and"
+  array.insert(array.count-1,"and")
   join(" , ")
 
 else
