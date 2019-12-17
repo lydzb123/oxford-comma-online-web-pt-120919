@@ -8,4 +8,4 @@ end
 
 end
 
-oxford_comma([1])
+print oxford_comma([1])
