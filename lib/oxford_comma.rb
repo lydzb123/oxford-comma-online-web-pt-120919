@@ -7,3 +7,5 @@ else
 end
 
 end
+
+oxford_comma([1])
